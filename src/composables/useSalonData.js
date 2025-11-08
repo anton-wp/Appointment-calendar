@@ -7,8 +7,8 @@ export function useSalonData() {
       name: "Elegant",
       masters: [
         { id: 1, name: "Anna Ivanova", color: "#FF6B6B" },
-        { id: 2, name: "Maria Petrova", color: "#4ECDC4" },
-        { id: 3, name: "Elena Sidorova", color: "#95E1D3" },
+        { id: 2, name: "Maria Sidorova", color: "#4ECDC4" },
+        { id: 3, name: "Elena Petrova", color: "#95E1D3" },
       ],
     },
     {
