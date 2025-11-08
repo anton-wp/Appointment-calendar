@@ -1,0 +1,46 @@
+# dependencies
+node_modules/
+bower_components/
+
+# build output
+dist/
+build/
+*.log
+
+# local env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# lock and cache
+package-lock.json
+yarn.lock
+npm-debug.log*
+pnpm-debug.log*
+.cache/
+
+# misc
+*.zip
+*.tar
+*.tgz
+*.rar
+*.7z
+
+# large assets
+/public/uploads/
+public/videos/
+public/temp/
