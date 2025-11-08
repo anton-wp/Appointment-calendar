@@ -94,6 +94,7 @@ const props = defineProps({
 });
 
 const emit = defineEmits([
+  "open-day-view",
   "edit-appointment",
   "move-appointment",
   "drag-start",
